@@ -57,12 +57,8 @@ Also add in env
 
 
 **Database**
-DB_CONNECTION=mysql
-DB_HOST=127.0.0.1
-DB_PORT=3306
-DB_DATABASE=vismaad_crud
-DB_USERNAME=root
-DB_PASSWORD=
+- DB_DATABASE=vismaad_crud
+
 
 ![alt text](image-5.png)
 ![alt text](image-4.png)
